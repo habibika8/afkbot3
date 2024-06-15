@@ -25,14 +25,14 @@
     },
 
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
 
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 250,
 
       "messages": [
         "/skyblock",
